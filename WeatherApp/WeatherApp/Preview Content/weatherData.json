@@ -1,0 +1,42 @@
+{
+    "coord": {
+        "lon": 77.4977,
+        "lat": 27.2046
+    },
+    "weather": [{
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+    }],
+    "base": "stations",
+    "main": {
+        "temp": 15.38,
+        "feels_like": 14.25,
+        "temp_min": 15.38,
+        "temp_max": 15.38,
+        "pressure": 1014,
+        "humidity": 49,
+        "sea_level": 1014,
+        "grnd_level": 993
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.67,
+        "deg": 76,
+        "gust": 1.64
+    },
+    "clouds": {
+        "all": 95
+    },
+    "dt": 1642599970,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1642556426,
+        "sunset": 1642594825
+    },
+    "timezone": 19800,
+    "id": 1276128,
+    "name": "Palwal",
+    "cod": 200
+}
